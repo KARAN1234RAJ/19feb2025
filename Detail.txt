@@ -1,3 +1,5 @@
 Name:- Karan Raj
 Age:- 29
 Deg:- MERN Stack Trainer
+Job Location: Mohali
+Company: Alsoft Sollution
